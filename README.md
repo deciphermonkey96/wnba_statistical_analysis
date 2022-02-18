@@ -1,4 +1,4 @@
-# Women's NBA Team Analysis for learning
+# Women's NBA Team Analysis sampling for learning
 
 ### Population and Sampling Analysis for Women's NBA Teams.
 

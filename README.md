@@ -1,4 +1,5 @@
-# wnba_statistical_analysis
+# Women's NBA Team Analysis for learning
+
 ### Population and Sampling Analysis for Women's NBA Teams.
 
 The current dataset analysis is an attempt to understand the difference between sampling and population analysis.
